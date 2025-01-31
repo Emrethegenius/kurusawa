@@ -184,7 +184,7 @@ function handleTimeout() {
 // Questions array
 let  questions = [
     {
-    "question": "Where was the Tsar Bomba, the largest nuclear bomb ever detonated, tested?",
+    "question": "A 1979 event involved the seizure of a diplomatic compound, leading to a prolonged hostage crisis and international tensions. What are the coordinates of this site?",
     "answer": [73.8567, 54.5842],
     "name": "Novaya Zemlya, Russia",
     "image": "images/tsar_bomba.jpg",
